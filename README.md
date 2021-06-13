@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @kelly
-- 👀 I’m interested in  lập trình, tectechnology, cook
-- 🌱 I’m currently learning công nghệ thông 
-- 💞️ I’m looking to collaborate on  trên github
+- 👀 I’m interested in  programming, and tectechnology
+- 🌱 I’m currently learning IT
+- 💞️ I’m seeking collaboration on github
 - 📫 How to reach me  
 fb: @Sỹ Hùng
-zalo: 0335072735
+zalo: +84 335072735
 
 <!---
 hung15102001/hung15102001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
